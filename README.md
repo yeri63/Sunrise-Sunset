@@ -3,4 +3,5 @@
   
 ![Screenshot of Sunrise/Sunset](https://github.com/yeri63/Sunrise-Sunset/blob/master/sunrise.png)
 </div>
-Lookup twilight (dawn), sunrise, zenith, sunset, twilight (evening) times from US Navy website. Press the Mode button to reveal the Lunar Phase and Illumination. Prev and Next buttons are provided to go forward or back in time to monitor changes in Daylight hours and minutes.
+<p>This project stemmed from my curiosity to monitor days approaching an equal number of hours of daylight and nighttime (Spring and Autumn Equinox), and other extremes, ie. most and least sunlight during the day (Sumer and Winter Solstice). These do not align with highest and lowest temperatures, as those tend to occur about a month later. To observe these changes, move forward or backward a day at a time using the Prev and Next buttons. This application also shows the time when the sun is at the highest point in the sky (Zenith), which should be at noon, but drifts as the seasons change, and off by an hour during daylight savings time.</p>
+<p>The additional twilight information was added to determine when is the best time to go stargazing, or time when fireworks display usually start. This is usually about an hour after twilight, otherwise known as Astronomical Twilight. The lunar phase and illumination percentage is also displayed, pressing the Mode button.</p>
