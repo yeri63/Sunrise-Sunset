@@ -1,7 +1,7 @@
 # Sunrise/Sunset
 <div align="center">
   
-![Screenshot of Sunrise/Sunset](https://github.com/yeri63/Sunrise-Sunset/blob/master/sunrise.png)
+![Screenshot of Sunrise/Sunset](sunrise.png)
 </div>
 <p>This project stemmed from my curiosity to monitor days approaching an equal number of hours of daylight and nighttime (Spring and Autumn Equinox), and other extremes, ie. most and least sunlight during the day (Sumer and Winter Solstice).</p>
 <p>I’ve noticed that Solstice dates do not align with highest and lowest temperatures, as those tend to occur about a month later. To observe this in real time, move forward or backward a day at a time using the Prev and Next buttons. This application also shows the time when the sun is at the highest point in the sky (Zenith), which should be at noon, but drifts as the seasons change, and off by an hour during daylight savings time.</p>
